@@ -89,8 +89,8 @@ links:
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
- # - title: <i class="iconside iconm-wordpress"></i> Old Blog
- #   url: https://foo.wordpress.com
+ ## - title: <i class="iconside iconm-wordpress"></i> Old Blog
+ ##   url: https://foo.wordpress.com
     external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
