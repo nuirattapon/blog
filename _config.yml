@@ -10,14 +10,14 @@ encoding: utf-8
 title:               Nui Rattapon
 #tagline:             'foo's website
 description:         Blog
-url: https://blog.nuirattapon.com
-baseurl: ""
-urlimg: https://blog.nuirattapon.com/images/
+##url: https://blog.nuirattapon.com
+##baseurl: ""
+##urlimg: https://blog.nuirattapon.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace 
 #dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
-##url: https://nuirattapon.github.io/blog/
-##baseurl: "/blog"
-##urlimg: https://nuirattapon.github.io/blog/images/
+url: https://nuirattapon.github.io/blog/
+baseurl: "/blog"
+urlimg: https://nuirattapon.github.io/blog/images/
 markdown: kramdown
 kramdown:
   math_engine: mathjax
