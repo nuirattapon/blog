@@ -51,7 +51,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 # About/contact
 author:
   name:              Nui Rattapon
-  url:               https://twitter.com/abcd
+  url:               https://twitter.com/NuiRattapon
   avatar:         foo.png
   #email:           
 
